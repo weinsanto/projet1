@@ -15,3 +15,4 @@ git push -u origin master
 bon..... je suis toujours le tutoriel https://guides.github.com/activities/hello-world/#repository
 et j'edite directement sur le serveur 'avec le pencil ;-)
 
+on essaye de voir des trucs en vert et en rouge
