@@ -12,3 +12,6 @@ git push -u origin master
 git remote add origin https://github.com/weinsanto/projet1.git
 git push -u origin master
 
+bon..... je suis toujours le tutoriel https://guides.github.com/activities/hello-world/#repository
+et j'edite directement sur le serveur 'avec le pencil ;-)
+
