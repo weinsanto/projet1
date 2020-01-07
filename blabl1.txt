@@ -17,3 +17,5 @@ et j'edite directement sur le serveur 'avec le pencil ;-)
 
 on essaye de voir des trucs en vert et en rouge
 et je commit
+j'ai ajoute ce truc et viré la phase (encore un truc pour les commentaire)
+
