@@ -16,3 +16,4 @@ bon..... je suis toujours le tutoriel https://guides.github.com/activities/hello
 et j'edite directement sur le serveur 'avec le pencil ;-)
 
 on essaye de voir des trucs en vert et en rouge
+et je commit
